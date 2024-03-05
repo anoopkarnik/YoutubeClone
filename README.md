@@ -4,4 +4,4 @@
 
 npm run dev 
 
-![Project Screenshot](webtube.gif "Project Screenshot")
+![Project Screenshot](public/webtube.gif "Project Screenshot")
